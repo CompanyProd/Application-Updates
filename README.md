@@ -9,4 +9,4 @@ The application was originally called Update Manager; it was announced in May 20
 The Software Updater cannot uninstall updates, although this can be accomplished by other package managers such as Ubuntu Software Center and more technically advanced ones such as Synaptic.
 
 In Ubuntu, the Software Updater can update the operating system to new versions which are released every six months for standard releases or every two years for Long Term Support releases. This functionality is included by default in the desktop version but needs to be added to the server version.  
-Coppied from: https://en.wikipedia.org/wiki/Software_Updater
+Copied from: https://en.wikipedia.org/wiki/Software_Updater
